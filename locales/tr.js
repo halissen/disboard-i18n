@@ -1,4 +1,4 @@
-{
+{ 
     "DISBOARD: The Public Server List": "DISBOARD: Genel Sunucu Listesi",
     "Hi! I am a bot for DISBOARD (https://disboard.org/)": "Merhaba! DISBOARD icin bir botum. (https://disboard.org/)",
     "COMMAND LIST": "KOMUT LISTESI",
